@@ -1,0 +1,9 @@
+1,Toyota,Corolla,2026,White,1200000,40,000 km,Available
+2,Honda,Civic,2025,Black,2500000,25,000 km,Sold
+
+
+1. Add Car     2. View Cars    3. Search Car
+4. Remove Car   5. Update Car   6. Add Customer
+7. View Customer    8. Sell Car 9. View Sold Cars
+10. View Sales  11. Save Cars   12. Load Cars
+                0. Exit
